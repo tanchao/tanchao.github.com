@@ -29,6 +29,8 @@ backup id_rsa & id_rsa.pub
 ssh-keygen -t rsa -C "chaos.tc@gmail.com" 	//generate new ssh public key for this email
 ssh -T git@github.com 						//test if it is okay to connect github
 remember to add id_rsa.pub content into github - account setting - SSH keys
+have to reset the remote connect with ssh way:
+git remote add origin git@github.com:tanchao/tanchao.github.com.git
 
 simple is good, make life easier and more focus on important things.
 
