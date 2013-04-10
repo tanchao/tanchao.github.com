@@ -5,7 +5,7 @@ title: New Start
 
 h3. {{ page.title }}
 
-p(meta). 14 Mar 2012 - Shanghai, China
+p(meta). 10 Apr 2013 - Guangzhou, China
 
 看到自己当年的空间的时候 简简单单 但是 确实有自己的力量在
 新开的github就这样直接搬过来 希望可以延续这种 能够让自己都为之感动的力量

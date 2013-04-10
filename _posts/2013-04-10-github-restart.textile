@@ -1,0 +1,37 @@
+---
+layout: post
+title: github restart
+---
+
+h3. {{ page.title }}
+
+p(meta). 10 Apr 2013 - Guangzhou, China
+
+h4. Github
+
+每一次重新开repo或者更新的时候都会有很多命令需要重新查找和拷贝，这一次就自己记录一下
+
+# 基本命令
+git add .					//添加所有的文件到索引
+git commit -m "comment"		//向本地源码库提交，会打开默认vi编辑器写 “注释”
+git remote add origin https://github.com/tanchao/tanchao.github.com.git	//添加远程目标为origin
+git remote rm origin 		//清除远程目标
+git push origin master		//把本地源码库push到Github上
+git pull origin  master		//从Github上pull到本地源码库
+
+# 用户设置
+git config --global user.name "tanchao"
+git config --global user.email "chaos.tc@gmail.com"
+
+# ssh 设置
+goto ~/.ssh
+backup id_rsa & id_rsa.pub
+ssh-keygen -t rsa -C "chaos.tc@gmail.com" 	//generate new ssh public key for this email
+ssh -T git@github.com 						//test if it is okay to connect github
+remember to add id_rsa.pub content into github - account setting - SSH keys
+
+simple is good, make life easier and more focus on important things.
+
+h4. Textile
+
+"Textile wiki":http://en.wikipedia.org/wiki/Textile_(markup_language)
