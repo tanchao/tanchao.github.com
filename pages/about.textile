@@ -1,32 +1,32 @@
 ---
 layout: page
-title: About Me
+title: about Tan Chao
 ---
-h1=. Tan Chao
->. Room 403 Building 17, 310 Fanghua Road, Shanghai, China 201204
->. Email: Tan.Chao.Hawk@gmail.com
 
-h3. Executive Profile 
-Four years hands on Core Java and J2EE web development; solid experience on database (Oracle via PLSQL), including stored procedure and optimization; skilled in front-end programming; passion to learn new growing technologies, e.g. Ruby on Rails and HTML5; eager to be technical expert in application design and solution, to master optimization tools and best practices.
+Tan Chao
+===
 
-h3. Professional Experience
+live@ Guangzhou, China
 
-*eBay Inc. - Release Engineer*								Jul. 2011 until now
-Developed automation tools and engineering platform to support release procedure for multi domain projects; managed QA and production environments; cooperated with USA and Indian team to support users from different levels with different rules; worked with build and configuration team to protect code.
-Developed automatic tools to reduce manual work; reduced release train circle from one month to one week; implemented daily release for urgent and important rollouts.
-Integrated with JIRA API service to send mail to BUG related QA and PD to accelerate release process; learnt Lucene and JSoup to implement Log Analyzer; written caching system for application, then implement JCS; redesigned front-end with jQuery and HTML5.
+in love with a girl in Shanghai, China
+a child back to parents every month
+a sport boy in basketball, swimming, hiking and GYM
+a growing man
 
-*eBaoTech Corporation - Application Developer*				Jul. 2010 to Jul. 2011
-Consulted client in Singapore for one year in insurance firm, responsible for site reliability and application optimization; developed new features and discussed with BA from customer about system enhancement.
-Received Excellence Award; leaded team English enhancement as English Master.
-Developed GTS plugins to all existing business parts and reports, by Core Java, Stored Procedure and Oracle Report; optimized SQL and application.
+sites
+---
+"douban":http://www.douban.com
+"coursera":http://www.coursera.org
+"memrise":http://www.memrise.com
+"leetcode":http://leetcode.com
 
-*Wonders Information Co. Ltd. - Software Engineer*			Jul. 2008 to Jul. 2010
-Developed Shanghai Gongshang Jinxin Projects; designed and implemented domain of project independently; participated in whole SDLC, including requirement discussion with clients, system design meeting, application development, functional test and maintenance; programed from back-end to front-end.
-Received Annual Best Team award.
-Experienced with SSH structure; skilled in JavaScript and JSP; familiar with UML, Power Designer and Micro Soft Office tools.
+todos
+---
+TOFEL exam in a year
+master degree in 3 years
+dirve license in 6 months
+investment plan
+new career
 
-h3. Education
-*East China University of Science and Technology (211)*		Sep. 2004 to Jul. 2008
-Bachelor of Engineering in Computer Science
-Graduate diploma in Finance
+weibo@ t__c___
+mail@ chaos.tc@gmail.com
