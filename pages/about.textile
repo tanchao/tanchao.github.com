@@ -4,25 +4,27 @@ title: about Tan Chao
 ---
 h1. Tan Chao
 
-live@ Guangzhou, China
+live in Guangzhou, China
 
-in love with a girl in Shanghai, China
-a child back to parents every month
-a sport boy in basketball, swimming, hiking and GYM
+a child goes back to parents every month
+a boy enjoys basketball, swimming, hiking and GYM
 a growing man
 
 h3. sites
+
 "douban":http://www.douban.com
 "coursera":http://www.coursera.org
 "memrise":http://www.memrise.com
 "leetcode":http://leetcode.com
 
 h3. todos
+
 TOFEL exam in a year
 master degree in 3 years
 dirve license in 6 months
-investment plan
-new career
+investment plan in a month
+
+h3. find me
 
 weibo@ t__c___
 mail@ chaos.tc@gmail.com
