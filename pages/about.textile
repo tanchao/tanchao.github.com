@@ -2,9 +2,7 @@
 layout: page
 title: about Tan Chao
 ---
-
-Tan Chao
-===
+h1. Tan Chao
 
 live@ Guangzhou, China
 
@@ -13,15 +11,13 @@ a child back to parents every month
 a sport boy in basketball, swimming, hiking and GYM
 a growing man
 
-sites
----
+h3. sites
 "douban":http://www.douban.com
 "coursera":http://www.coursera.org
 "memrise":http://www.memrise.com
 "leetcode":http://leetcode.com
 
-todos
----
+h3. todos
 TOFEL exam in a year
 master degree in 3 years
 dirve license in 6 months
