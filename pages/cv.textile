@@ -1,0 +1,38 @@
+---
+layout: page
+title: CV of Tan Chao
+---
+h1=. Tan Chao
+
+phone: 86 13822219517
+email: chaos@gmail.com
+
+h3. Profile
+
+Java/J2EE (4yr) & Python(1yr) developer; database programming and optimization in Informix, Oracle & Sybase (PLSQL); web development with ruby, node.js, webpy; HTML5 & JavaScript & CSS3; design and enhance automation tools & platform, optimize process and program; innovated and motivated
+
+h3. Professional Experience
+
+*HSBC - Senior Software Engineer*							Jul. 2012 until now
+FOREX (foreign exchange) Option team developer; Murex environment support; python automation platform design & implement.
+
+*eBay Inc. - Release Engineer*								Jul. 2011 until Jun. 2012
+Developed automation tools and engineering platform to support release procedure for multi domain projects; managed QA and production environments; cooperated with USA and Indian team to support users from different levels with different rules; worked with build and configuration team to protect code.
+Developed automatic tools to reduce manual work; reduced release train circle from one month to one week; implemented daily release for urgent and important rollouts.
+Integrated with JIRA API service to send mail to BUG related QA and PD to accelerate release process; learnt Lucene and JSoup to implement Log Analyzer; written caching system for application, then implement JCS; redesigned front-end with jQuery and HTML5.
+
+*eBaoTech Corporation - Application Developer*				Jul. 2010 to Jul. 2011
+Consulted client in Singapore for one year in insurance firm, responsible for site reliability and application optimization; developed new features and discussed with BA from customer about system enhancement.
+Received Excellence Award; leaded team English enhancement as English Master.
+Developed GTS plug-in to all existing business parts and reports, by Core Java, Stored Procedure and Oracle Report; optimized SQL and application.
+
+*Wonders Information Co. Ltd. - Software Engineer*			Jul. 2008 to Jul. 2010
+Developed Shanghai Gongshang Jinxin Projects; designed and implemented domain of project independently; participated in whole SDLC, including requirement discussion with clients, system design meeting, application development, functional test and maintenance; programmed from back-end to front-end.
+Received Annual Best Team award.
+Experienced with SSH structure; skilled in JavaScript and JSP; familiar with UML, Power Designer and Micro Soft Office tools.
+
+h3. Education
+
+*East China University of Science and Technology (211)*		Sep. 2004 to Jul. 2008
+Bachelor of Engineering in Computer Science
+Diploma in Finance
