@@ -1,0 +1,20 @@
+---
+layout: post
+title: Rich Papa Poor Papa
+---
+h1. Rich or Poor
+
+h3. {{ page.title }}
+
+p(meta). 28 Apr 2013 - Chenzhou, China
+
+"book":http://book.douban.com/subject/3291111
+
+h3. notes
+
+* If there is a problem, face it and try to find a way to resolve it, not cross over it
+* Be clear about the difference of Income and Assets, Assets can bring you income without your time or work
+* Spend your income on yourself first, instead of expense or debt
+* Your career is different from your business, think as a boss
+* Luxury should only be brought via asset income
+* Don't be afraid of failure and mistakes, but make sure you learn from it and would never ever occur it again

@@ -10,7 +10,7 @@ a child goes back to parents every month
 a boy enjoys basketball, swimming, hiking and GYM
 a growing man
 
-h3. sites
+h3. sites recommand
 
 "douban":http://www.douban.com
 "coursera":http://www.coursera.org
@@ -26,5 +26,5 @@ investment plan in a month
 
 h3. find me
 
-weibo@ t__c___
-mail@ chaos.tc@gmail.com
+weibo "t__c___":http://weibo.com/tanchao1986
+mail "chaos.tc@gmail.com":mailto:chaos.tc@gmail.com

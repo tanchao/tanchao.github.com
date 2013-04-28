@@ -1,6 +1,6 @@
 ---
 layout: post
-title: tanchao's ambition
+title: ambition
 ---
 
 h3. {{ page.title }}
