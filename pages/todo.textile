@@ -2,7 +2,7 @@
 layout: page
 title: whats next...
 ---
-h1. TODOs
+h2. TODOs
 
 = add post types control in a week
 = change todo and show in front page column in a week
@@ -12,4 +12,4 @@ h1. TODOs
 = investment plan in a month
 20130428
 
-h1. DONEs
+h2. DONEs
