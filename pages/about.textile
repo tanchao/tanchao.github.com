@@ -17,13 +17,6 @@ h3. sites recommand
 "memrise":http://www.memrise.com
 "leetcode":http://leetcode.com
 
-h3. todos
-
-TOFEL exam in a year
-master degree in 3 years
-dirve license in 6 months
-investment plan in a month
-
 h3. find me
 
 weibo "t__c___":http://weibo.com/tanchao1986
