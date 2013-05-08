@@ -4,6 +4,7 @@ title: whats next...
 ---
 h2. TODOs
 
+= know Quantitative Research/Fiance/Analyst & Methmatic Finance in a week
 = add post types control in a week
 = change todo and show in front page column in a week
 = TOFEL exam in a year
