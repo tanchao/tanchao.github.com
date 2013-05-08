@@ -35,6 +35,7 @@ Designed and developed automated testing environment creation function;
 Designed and developed testing environment framework and platform, easily integrated in web page for DIY service.
 
 h4. 2012
+
 *Market Data spreadsheet development* - HSBC
 VBA, DMDS, dmds2
 Developed new spreadsheets for over five countries to upload market data into DMDS and Murex;
@@ -50,6 +51,7 @@ Java, HTML5
 Helped team enhance the frame of automatic build & deploy in features pool.
 
 h4. 2011
+
 *JIRA alert* - eBay
 JIRA, Java, HTML5
 Developed tool to read data from JIRA and send email to related people.
@@ -59,6 +61,7 @@ Java
 Developed tool to read from web page and scan sensitive information, then email related people.
 
 h4. 2010
+
 *GEL* - eBaoTech
 Java, Oracle
 Developed new features like GTS rates, reports;
@@ -66,6 +69,7 @@ Trouble shooting production bugs;
 Optimization on SQL & stored procedure.
 
 h4. 2009
+
 *12315* - Wondersgroup
 Java, SSH, Informix, Javascript
 Design & developed bulletin function;
