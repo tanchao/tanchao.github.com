@@ -17,19 +17,68 @@ h3. Professional Experience
 FOREX (foreign exchange) Option team developer; Murex environment support; python automation platform design & implement.
 
 *eBay Inc. - Release Engineer*								Jul. 2011 until Jun. 2012
-Developed automation tools and engineering platform to support release procedure for multi domain projects; managed QA and production environments; cooperated with USA and Indian team to support users from different levels with different rules; worked with build and configuration team to protect code.
-Developed automatic tools to reduce manual work; reduced release train circle from one month to one week; implemented daily release for urgent and important rollouts.
-Integrated with JIRA API service to send mail to BUG related QA and PD to accelerate release process; learnt Lucene and JSoup to implement Log Analyzer; written caching system for application, then implement JCS; redesigned front-end with jQuery and HTML5.
+Developed automation tools and engineering platform to support release procedure for www.ebay.com all sites; conducted QA and production environments; traced urgencies with person in charge
 
 *eBaoTech Corporation - Application Developer*				Jul. 2010 to Jul. 2011
-Consulted client in Singapore for one year in insurance firm, responsible for site reliability and application optimization; developed new features and discussed with BA from customer about system enhancement.
-Received Excellence Award; leaded team English enhancement as English Master.
-Developed GTS plug-in to all existing business parts and reports, by Core Java, Stored Procedure and Oracle Report; optimized SQL and application.
+Consulted client of Singapore biggest insurance firm, responsible for site reliability and application optimization; new features enhancement and bugs trouble shooting
 
 *Wonders Information Co. Ltd. - Software Engineer*			Jul. 2008 to Jul. 2010
-Developed Shanghai Gongshang Jinxin Projects; designed and implemented domain of project independently; participated in whole SDLC, including requirement discussion with clients, system design meeting, application development, functional test and maintenance; programmed from back-end to front-end.
-Received Annual Best Team award.
-Experienced with SSH structure; skilled in JavaScript and JSP; familiar with UML, Power Designer and Micro Soft Office tools.
+Developed, designed and implemented J2EE projects of Shanghai Gongshang; participated in whole SDLC, programmed in both back-end & front-end
+
+h3. Projects
+
+h4. 2013
+
+*Murex Environment Support Automation platform* - HSBC
+Python, Json, webpy
+Designed and developed automated testing environment creation function;
+Designed and developed testing environment framework and platform, easily integrated in web page for DIY service.
+
+h4. 2012
+*Market Data spreadsheet development* - HSBC
+VBA, DMDS, dmds2
+Developed new spreadsheets for over five countries to upload market data into DMDS and Murex;
+Configured the work flow from spreadsheet to DMDS, from DMDS to Murex;
+Congigured the scripts in Murex.
+
+*Log Analysis* - eBay
+Java, MySQL, HTML5, jsp
+Developed functions to trace the exception/error automaticly.
+
+*Auto Build Frame* - eBay
+Java, HTML5
+Helped team enhance the frame of automatic build & deploy in features pool.
+
+h4. 2011
+*JIRA alert* - eBay
+JIRA, Java, HTML5
+Developed tool to read data from JIRA and send email to related people.
+
+*Pre-Production Pool monitor* - eBay
+Java
+Developed tool to read from web page and scan sensitive information, then email related people.
+
+h4. 2010
+*GEL* - eBaoTech
+Java, Oracle
+Developed new features like GTS rates, reports;
+Trouble shooting production bugs;
+Optimization on SQL & stored procedure.
+
+h4. 2009
+*12315* - Wondersgroup
+Java, SSH, Informix, Javascript
+Design & developed bulletin function;
+Design & developed dictionary.
+
+*Annual Exam* - Wondersgroup
+Java, SSH, Informix
+Developed function for business.
+
+*Register Hall* - Wondersgroup
+Java, SSH, Informix
+Developed and tested system functions;
+Joined requirement meeting.
 
 h3. Education
 

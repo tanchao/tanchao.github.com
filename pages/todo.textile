@@ -7,10 +7,6 @@ h2. TODOs
 = know Quantitative Research/Fiance/Analyst & Methmatic Finance in a week
 = add post types control in a week
 = change todo and show in front page column in a week
-= TOFEL exam in a year
-= master degree in 3 years
-= dirve license in 6 months
-= investment plan in a month
 20130428
 
 h2. DONEs

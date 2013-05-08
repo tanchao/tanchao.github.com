@@ -4,20 +4,31 @@ title: about Tan Chao
 ---
 h1. Tan Chao
 
-live in Guangzhou, China
+@ Guangzhou, China
 
-a child goes back to parents every month
-a boy enjoys basketball, swimming, hiking and GYM
-a growing man
+work as developer think as designer study like fresh bird
+tend to be more focused on business & math
+
+Google is my dream company
+
+Goldman Sach sounds cool, but Renaissance sounds awesome
+
+h3. Pros
+
+always measure myself with talent's standards
+always care about result and process
+always seek for better solution and elegant code - perfectionist
+
+h3. Cons
+
+not so detailed
 
 h3. sites recommand
 
-"douban":http://www.douban.com
-"coursera":http://www.coursera.org
-"memrise":http://www.memrise.com
 "leetcode":http://leetcode.com
+"stackoverflow":http://stackoverflow.com/
 
 h3. find me
 
-weibo "t__c___":http://weibo.com/tanchao1986
+connect "LinkedIn":http://www.linkedin.com/profile/view?id=117523003
 mail "chaos.tc@gmail.com":mailto:chaos.tc@gmail.com
