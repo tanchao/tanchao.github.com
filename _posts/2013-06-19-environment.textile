@@ -1,0 +1,22 @@
+---
+layout: post
+title: environment
+---
+
+h3. {{ page.title }}
+
+p. 19th June 2013 - Guangzhou, China
+
+This is a bad habit but a habit of me, when i want to start something new, i would like to init a new environment. In fact it is due to I cannot inist any projects/environments for long, if i always keep working on it i won't able to drop it easily.
+
+Today's work items will be:
+* VMPlayer 5 install - done
+* Ubuntu 13 install - done
+* Java install -
+* Tomcat install - 
+* IntelliJ IDEA install - 
+* Ant install -
+* Algo first class code copy & paste with project -
+* Install Python 2.7
+
+Well I really want to do some study now as I have been empty for a long long long time again, and I am really boring again.
