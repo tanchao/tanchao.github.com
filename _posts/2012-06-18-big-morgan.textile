@@ -1,0 +1,55 @@
+---
+layout: post
+title: m$
+---
+
+h3. {{ page.title }}
+
+p(meta). 17th June 2013 - Chenzhou, China
+
+Here are the Qs for this interview
+
+h5. JAVA
+
+# what is final keyword in Java? how it works with class, method and field?
+# after i define a field with final, can i change it?
+
+# what is finally? what is the difference between finally and catch?
+# will finally block execute after "exit" in try block?
+
+# what is synchronized keyword in JAVA?
+# how does Java implement this keyword? if you don't know how java works, can you design an implementation?
+# do you know lock methods in Java? if offered this method, how would you implement synchronized keyword?
+
+# what is the difference between HashMap and TreeMap?
+# what is the complication of insert operation for both data structure?
+# what methods would you define for hash key? if hashcode() method is well defined, can we drop equals() method?
+
+# what do you know about GC? what is the stratege of Java GC? the frequency of GC in JAVA to different regions?
+# as there is stack and heap in JVM, will the new objects all generated in stack?
+
+h5. Build
+
+# what is the differences between Ant and Maven?
+# how to list all available targets in Ant file? have you ever practiced ant.help?
+# how to debug the build issue in Ant?
+# how to implement package dependency in Ant?
+
+# do you know gradle?
+
+h5. Tools
+
+# do you know Linux/Unix?
+# how to find files with foo in file name and bar in file content?
+
+# do you know git and svn?
+# what is the difference between them? do you know the difference in branch between them?
+
+In general I am not satisfied about this interview with M$, I was a little nervous during the first half an hour, and still I am not quite clear about the details of the technical implements of the Java language, and again in the HashMap&TreeMap question part, I could not remember the time complication. Also the standard naming about GC I forgot them. There was mess during BUILD part, I totally forgot how I work with Maven, and realised that I have lots to learn in Ant, at least there would be big space for me to explore in Ant during my self practice.
+
+Here are the TODOs:
+* Learn Ant again in Linux
+* Practice Maven with one simple project
+* Practive Gradle with one simple project
+* Practice all the codes and assignments in Algorithm I
+* Document technical study daily
