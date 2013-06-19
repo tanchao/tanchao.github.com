@@ -50,6 +50,6 @@ In general I am not satisfied about this interview with M$, I was a little nervo
 Here are the TODOs:
 * Learn Ant again in Linux
 * Practice Maven with one simple project
-* Practive Gradle with one simple project
+* Practice Gradle with one simple project
 * Practice all the codes and assignments in Algorithm I
 * Document technical study daily

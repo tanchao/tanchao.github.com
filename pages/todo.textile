@@ -2,11 +2,23 @@
 layout: page
 title: whats next...
 ---
-h2. TODOs
+h3. TODOs
 
-= know Quantitative Research/Fiance/Analyst & Methmatic Finance in a week
-= add post types control in a week
-= change todo and show in front page column in a week
-20130428
+* config new Linux environment
+* Learn Ant again in Linux
+* Practice Maven with one simple project
+* Practice Gradle with one simple project
+* Practice all the codes and assignments in Algorithm I
+* Document technical study daily
+* Golang study
+2013-06-19
 
-h2. DONEs
+h3. DONEs
+
+h3. TRASHs
+
+* know Quantitative Research/Fiance/Analyst & Methmatic Finance in a week
+* add post types control in a week
+* change todo and show in front page column in a week
+* 2013-04-28
+2013-06-19
