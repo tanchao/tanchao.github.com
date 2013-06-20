@@ -12,12 +12,20 @@ This is a bad habit but a habit of me, when i want to start something new, i wou
 Today's work items will be:
 * VMPlayer 5 install - done
 * Ubuntu 13 install - done
-* Java install -
-* Tomcat install - 
-* IntelliJ IDEA install - 
-* Ant install -
-* Install Git
+* Java install - done
+"jdk7u25":http://www.oracle.com/technetwork/java/javase/downloads/jdk7-downloads-1880260.html
+"install ref":http://blog.csdn.net/yang_hui1986527/article/details/6677450
+* Tomcat install - done
+"tomcat7":http://tomcat.apache.org/download-70.cgi
+"ref":http://ixin.me/ubuntu-tomcat7-installation-and-configuration/
+* IntelliJ IDEA install - done
+"ref":http://wiki.jetbrains.net/intellij/Installing_and_running_IntelliJ_IDEA_on_Ubuntu
+* Ant install - done
+"ant":http://apache.etoak.com/ant/binaries/
+"ref":http://my.oschina.net/mynote/blog/92048
+* Install Git - done
+* Install Python 2.7 - done
+* Sublime Text 2 - done
 * Algo first class code copy & paste with project -
-* Install Python 2.7
 
 Well I really want to do some study now as I have been empty for a long long long time again, and I am really boring again.
