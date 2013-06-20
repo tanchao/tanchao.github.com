@@ -16,6 +16,7 @@ Today's work items will be:
 * Tomcat install - 
 * IntelliJ IDEA install - 
 * Ant install -
+* Install Git
 * Algo first class code copy & paste with project -
 * Install Python 2.7
 

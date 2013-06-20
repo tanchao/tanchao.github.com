@@ -1,0 +1,48 @@
+---
+layout: post
+title: interview
+---
+
+h3. {{ page.title }}
+
+p. 20th June 2013 - Guangzhou, China
+
+Here are some nice to ask Qs while interview:
+
+h5. Queries about "*How you suit this position?*"
+
+* Why are you currently recruiting for this position?
+* Do you have many new staffs?
+* What are the biggest challenges your team are facing right now?
+* What technologies/languages would you like to see your team adapt to that aren't currently being utilised?
+* Few companies, if any, are 100% satisfied with the way their business is operating. If you could simply flick a switch to fix it, what one thing would you change?
+* If you struggle to fill the position I have applied for, what impact would that have on the business?
+* "Ref":http://www.ruanyifeng.com/blog/2012/08/questions_you_need_to_ask_in_an_interview.html
+
+h5. Queries for *Hiring Manager*
+
+The hiring manager will likely supervise you if you get the job. They‘re the most knowledgeable people about the position and its requirements. You should direct specific questions about the job，its *responsibilities* and its *challenges* to them. You may also want to ask what kind of *candidate* they’re seeking
+* What are the most important skills for the job?
+* How would you describe your ideal candidate?
+* What‘s a common career path at the company for someone in this role?
+
+h5. Queries for *Industry Expert*
+
+Senior managers and executives are likely to be most knowledgeable about the latest happenings in their industry. If you‘ll be working closely with an executive，you can ask them some specifics about the job. But you should focus most of your questions on the future of the company and the industry. This is your chance to show off your industry knowledge!
+* How do you think this industry will change in the next five years?
+* What do you think gives this company an edge over its competitors?
+* What’s the company‘s biggest challenge?How is it planning to meet that challenge?
+
+h5. Queries for *Coworker*
+
+Some interviews will also include a meeting with a potential coworker - the interviewer most likely to "tell it how it is." A potentialcolleaguemay be most candid about the job，its challenges and the work environment. However，don‘t expect inside information - and certainly don’t ask for it.
+* What‘s a typical day like in the department?
+* How would you describe the work environment at the company?
+* What’s the most enjoyable part of your job?What‘s the most challenging part?
+
+"ref":http://m.gerenjianli.com/mianshi/mianjingdaquan/berrea3nl4rgd.htm
+
+h5. Express in interview
+"ref":http://m.gerenjianli.com/mianshi/waiqi/4qytnxy7cllj.htm
+
+I am preparing for the second round phone interview from Morgan Stanley and it is not yet come.
