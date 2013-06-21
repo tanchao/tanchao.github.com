@@ -26,6 +26,6 @@ Today's work items will be:
 * Install Git - done
 * Install Python 2.7 - done
 * Sublime Text 2 - done
-* Algo first class code copy & paste with project -
+* Algo first class code copy & paste with project - hold
 
 Well I really want to do some study now as I have been empty for a long long long time again, and I am really boring again.

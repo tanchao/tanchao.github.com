@@ -1,0 +1,15 @@
+---
+layout: post
+title: study
+---
+
+h3. {{ page.title }}
+
+p. 20th June 2013 - Guangzhou, China
+
+It was exciting that I feel cheerish to back home to work on my little projects. The willing to learn new things and practice old staffs.
+
+here are some nice resource during my search on Java study:
+"vogella":http://www.vogella.com/articles/JavaDatastructures/article.html
+"algo on google code":http://code.google.com/p/java-algorithms-implementation
+"algo on github":https://github.com/xiaoningning/algorithm
