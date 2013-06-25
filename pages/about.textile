@@ -30,6 +30,6 @@ h3. sites recommand
 
 h3. find me
 
-check "github":http://tanchao.github.com
+check "github":http://github.com/tanchao
 connect "LinkedIn":http://www.linkedin.com/profile/view?id=117523003
 mail "chaos.tc@gmail.com":mailto:chaos.tc@gmail.com
