@@ -21,7 +21,7 @@ always seek for better solution and elegant code - perfectionist
 
 h3. Cons
 
-not so detailed
+i am easy-going, so sometimes not taking things seriously, which means not fully focus in something
 
 h3. sites recommand
 
@@ -30,5 +30,6 @@ h3. sites recommand
 
 h3. find me
 
+check "github":http://tanchao.github.com
 connect "LinkedIn":http://www.linkedin.com/profile/view?id=117523003
 mail "chaos.tc@gmail.com":mailto:chaos.tc@gmail.com
