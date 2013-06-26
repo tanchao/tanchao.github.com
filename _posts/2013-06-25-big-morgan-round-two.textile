@@ -1,0 +1,39 @@
+---
+layout: post
+title: morgan stanley second round interview
+---
+
+h3. {{ page.title }}
+
+p. 25th June 2013 - Guangzhou, China
+
+I prepared it last Thu. i think, but they changed to today, that make me not prepared this time. we had ktv last night to 12 but luckily i made to wake up in the morning.
+
+it's a call from NYC, B was a very nice interviewer, he slowed down the speaking and made very clear pronounciation. the questions are more related to daily work and real implementation, not purely technical or algorithm, different from MS & Google & Amazon style.
+
+Here are the Qs:
+
+h5. Java
+
+= please talk about design pattern
+= what is reflection in Java? tell me one use case.
+= java can do "write once, run everywhere", how can u make it cannot run everywhere? like OS depended, can run in Windows but not in Linux? Ignore the system level and Java version or JVM, only in code, how can u do that?
+= I have one class with private methods, how will you design unit test to test these private methods? suppose u can change that class
+
+h5. Build System
+
+= talk about SDLC, what's the difference between large project and small project? what's your experience?
+= giving an Ant, except its help in build, how can it help development?
+= what do you know about xml? do you know namespace?
+= what do you know about code coverage? how to say it is good or bad?
+= what do you know about unit test? and test case design? suppose we have a method with integer input a & b, return float c = a / b, can you list out your test cases?
+= given boolean a, b, c, how can i get True if one and only one is True?
+
+Q:
+How do you work with outer teams? any API or document support in need?
+How do you work together globally?
+How's the connection? any travels?
+
+Qs for next time:
+What do you expect me to do in this position?
+May I know the career plan for this opportunity? any chance to transfer to prem? how's the career path?
