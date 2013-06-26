@@ -4,7 +4,7 @@ title: whats next...
 ---
 h3. TODOs
 
-* config new Linux environment
+* chrome bookmarks - todo - node.js - blog
 * Learn Ant again in Linux
 * Practice Maven with one simple project
 * Practice Gradle with one simple project
@@ -13,7 +13,14 @@ h3. TODOs
 * Golang study
 2013-06-19
 
+
+
 h3. DONEs
+
+* config new Linux environment
+2013-06-25
+
+
 
 h3. TRASHs
 
