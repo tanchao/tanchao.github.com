@@ -1,6 +1,6 @@
 ---
 layout: post
-title: reinstall mysql
+title: ant
 ---
 
 h3. {{ page.title }}
@@ -11,9 +11,10 @@ p. 26th June 2013 - Guangzhou, China
 
 * "hello-ant":http://docs.huihoo.com/java/hello-ant/
 
+* "more":http://www.cnblogs.com/wufengxyz/archive/2011/11/24/2261797.html
+
 Below are the help info of ant:
 
-%{color:blue}
 /opt/ant/bin/ant [script options] [options] [target [target2 [target3] ..]]
 Script Options:
   --help, --h            print this message and ant help
@@ -59,4 +60,3 @@ Options:
   -noclasspath           Run ant without using CLASSPATH
   -autoproxy             Java1.5+: use the OS proxy settings
   -main <class>          override Ant's normal entry point
-%
