@@ -8,7 +8,7 @@ h3. {{ page.title }}
 p. 26th June 2013 - Guangzhou, China
 
 error:
--Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock'-
+*Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock*
 
 "root cause":http://blog.csdn.net/leisure512/article/details/5139104
 "ref":http://www.blogjava.net/yjhmily/articles/336926.html

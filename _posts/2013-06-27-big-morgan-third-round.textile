@@ -1,0 +1,16 @@
+---
+layout: post
+title: morgan stanley third round interview
+---
+
+h3. {{ page.title }}
+
+p. 27th June 2013 - Guangzhou, China
+
+I cannot prepare anything accordingly, I have been reading and learning recently, not only in IT related, but also other staffs.
+
+I failed so many times last year around April, May & June, and all are failed at the final F2F interviews, this time is still telephone interview and have to face interviewer from NYC, LDN, SHH in 3 hours. what I can say? I will represent who am I and what I can do, also I would like to know how I can do.
+
+To be updated on weekend...
+
+bless? pray? just do it.
