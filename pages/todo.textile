@@ -17,7 +17,7 @@ h3. DONEs
 
 * Learn Ant again in Linux
 * Practice Gradle with one simple project
-2013-06-25
+2013-06-27
 * config new Linux environment
 2013-06-25
 
