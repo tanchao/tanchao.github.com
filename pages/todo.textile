@@ -4,6 +4,9 @@ title: whats next...
 ---
 h3. TODOs
 
+* seo & sales page & ali/taobao ads
+* Practice Make with one simple project
+2013-07-01
 * chrome bookmarks - todo - node.js - blog
 * Practice Maven with one simple project
 * Practice all the codes and assignments in Algorithm I
@@ -17,7 +20,7 @@ h3. DONEs
 
 * Learn Ant again in Linux
 * Practice Gradle with one simple project
-2013-06-25
+2013-06-27
 * config new Linux environment
 2013-06-25
 
