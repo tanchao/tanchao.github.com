@@ -4,6 +4,9 @@ title: whats next...
 ---
 h3. TODOs
 
+* seo & sales page & ali/taobao ads
+* Practice Make with one simple project
+2013-07-01
 * chrome bookmarks - todo - node.js - blog
 * Practice Maven with one simple project
 * Practice all the codes and assignments in Algorithm I
