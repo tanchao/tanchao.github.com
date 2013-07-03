@@ -14,3 +14,47 @@ I failed so many times last year around April, May & June, and all are failed at
 To be updated on weekend...
 
 bless? pray? just do it.
+
+@ 05:52 - from LDN Paul
+first round is almost building building & building, while I have not much knowledge on this, i guse he want me to go back home wash and sleep...
+i cannot even list the questions i met, too difficult to me, cannot understand much...
+the main differences if that my past work in build & release are mainly for one application, their build tools are face all developers in m$, they have to be running at high performance level to face all developers' need, but our team is independent from all others, we have full resources on our builds...
+finally, i really know more about development not build.
+
+@ 06:50 - from NYC Ganlincher(?)
+second round is more acceptable to me, the technical skills problems and the project related things...
+* Python
+** talk about yield
+** how u use yield
+** how u give 1M random names base on the input 1M
+** how u use yield to implement above
+** do you know decorater
+** do you know iterator
+** whats the difference between iterator and list
+
+* Java
+** how you work with JIRA
+** how you request JIRA cancel
+** what is singleton
+** how you implement it
+** do you know xml parser in java
+** do you know proxy class
+** do you know lazy initilization
+** how spring do it
+** do you know deamon threads
+** spring lifesycle
+** what bean do if not set for init & destroy
+** how u work with build before
+
+@ 2013-07-03 - from LDN
+London interviewers are in same style, they don't have a real question list in hand, they talk about things they more care about and expand the question based on my answers.
+
+* talk about the common and differences of Ant, Maven & Gradle
+* do you know IVY? 
+* do you know makefile?
+* why we need build tools? as we can use javac and mv/cp etc.?
+* what is GC?
+* what is weak reference? what is soft reference?
+* how to find the common line in two text files?
+* if cannot store in memory, what's your solution?
+
