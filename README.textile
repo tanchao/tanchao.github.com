@@ -9,5 +9,4 @@
 
   ga('create', 'UA-42350307-1', 'tanchao.github.io');
   ga('send', 'pageview');
-
 </script>
