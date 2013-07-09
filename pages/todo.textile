@@ -14,6 +14,12 @@ h3. TODOs
 * Golang study
 2013-06-19
 
+------------US-------------
+* New Year Countdown on Time Square
+* San Jose
+* Skydriving
+---------------------------
+
 
 
 h3. DONEs
