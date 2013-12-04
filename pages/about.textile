@@ -4,32 +4,37 @@ title: about Tan Chao
 ---
 h1. Tan Chao
 
-@ Guangzhou, China
+@ New York City, NY USA
 
 work as developer think as designer study like fresh bird
 tend to be more focused on business & math
 
-Google is my dream company
-
-Goldman Sach sounds cool, but Renaissance sounds awesome
+LinkedIn is really good, I would follow Musk if possible
+Google is my dream company, hear Apple offer personal office
+Goldman Sach sounds cool, while Renaissance sounds awesome
 
 h3. Pros
 
-always measure myself with talent's standards
-always care about result and process
-always seek for better solution and elegant code - perfectionist
+compared myself with talents
+focusd on result
+chased processing optimization
+kept simple and elegant code
 
 h3. Cons
 
-i am easy-going, so sometimes not taking things seriously, which means not fully focus in something
+try to compare myself with talents - keep foolish?
+try to focus on result - better or so so?
+try to chase processing optimization - stop until really need?
+try to keep simple and elegant code - less is more?
 
 h3. sites recommand
 
 "leetcode":http://leetcode.com
-"stackoverflow":http://stackoverflow.com/
+"stackoverflow":http://stackoverflow.com
+"coursera":https://www.coursera.org
 
 h3. find me
 
-check "github":http://github.com/tanchao
-connect "LinkedIn":http://www.linkedin.com/profile/view?id=117523003
-mail "chaos.tc@gmail.com":mailto:chaos.tc@gmail.com
+watch me @ "github":http://github.com/tanchao
+connect me @ "LinkedIn":http://www.linkedin.com/profile/view?id=117523003
+mail me @ "chaos.tc@gmail.com":mailto:chaos.tc@gmail.com
