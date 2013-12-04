@@ -6,12 +6,14 @@ h1. Tan Chao
 
 @ New York City, NY USA
 
-work as developer think as designer study like fresh bird
-tend to be more focused on business & math
+i agree, "call me developer, not engineer", although i am software engineer
+i have a dream, when i am happy with work, like i am happy with life
+i feel lucky about my major, exploring more and more new techs and inventions
 
-LinkedIn is really good, I would follow Musk if possible
-Google is my dream company, hear Apple offer personal office
-Goldman Sach sounds cool, while Renaissance sounds awesome
+Musk creates magic, LinkedIn shares career, Google plays big, Apple offers quality, Renaissance calculates math, Amazon makes market
+
+also
+pround of wechat, alibaba, baidu, douban
 
 h3. Pros
 
@@ -22,10 +24,10 @@ kept simple and elegant code
 
 h3. Cons
 
-try to compare myself with talents - keep foolish?
-try to focus on result - better or so so?
-try to chase processing optimization - stop until really need?
-try to keep simple and elegant code - less is more?
+try to compare myself with talents      - keep foolish?
+try to focus on result                  - better or so so?
+try to chase processing optimization    - stop until really need?
+try to keep simple and elegant code     - whats less? whats more?
 
 h3. sites recommand
 
@@ -35,6 +37,6 @@ h3. sites recommand
 
 h3. find me
 
-watch me @ "github":http://github.com/tanchao
-connect me @ "LinkedIn":http://www.linkedin.com/profile/view?id=117523003
-mail me @ "chaos.tc@gmail.com":mailto:chaos.tc@gmail.com
+watch me        @ "github":http://github.com/tanchao
+connect me      @ "LinkedIn":http://www.linkedin.com/profile/view?id=117523003
+mail me         @ "chaos.tc@gmail.com":mailto:chaos.tc@gmail.com

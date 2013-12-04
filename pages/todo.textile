@@ -2,24 +2,18 @@
 layout: page
 title: whats next...
 ---
+
 h3. TODOs
 
-* seo & sales page & ali/taobao ads
-* Practice Make with one simple project
-2013-07-01
-* chrome bookmarks - todo - node.js - blog
-* Practice Maven with one simple project
-* Practice all the codes and assignments in Algorithm I
-* Document technical study daily
-* Golang study
-2013-06-19
+* chaos.trade
+2013-12-03
 
 ------------US-------------
-* New Year Countdown on Time Square
 * San Jose
 * Skydriving
+* NBA
+* Street Ball Park
 ---------------------------
-
 
 
 h3. DONEs
@@ -31,10 +25,19 @@ h3. DONEs
 2013-06-25
 
 
-
 h3. TRASHs
 
 * know Quantitative Research/Fiance/Analyst & Methmatic Finance in a week
 * add post types control in a week
 * change todo and show in front page column in a week
 2013-06-19
+* seo & sales page & ali/taobao ads
+* Practice Make with one simple project
+2013-07-01
+* chrome bookmarks - todo - node.js - blog
+* Practice Maven with one simple project
+* Practice all the codes and assignments in Algorithm I
+* Document technical study daily
+* Golang study
+2013-06-19
+* New Year Countdown on Time Square
