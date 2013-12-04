@@ -11,7 +11,7 @@ h3. Profile
 
 Java/J2EE (4yr) & Python(1yr) developer; database programming and optimization in Informix, Oracle & Sybase (PLSQL); web development with ruby, node.js, webpy; HTML5 & JavaScript & CSS3; design and enhance automation tools & platform, optimize process and program; innovated and motivated
 
-h3. Professional Experience
+h3. Experience
 
 *HSBC - Senior Software Engineer*							Jul. 2012 until now
 FOREX (foreign exchange) Option team developer; Murex environment support; python automation platform design & implement.
