@@ -1,0 +1,23 @@
+---
+layout: post
+title: macbook
+---
+
+h3. {{ page.title }}
+
+p(meta). 10 Nov 2013 - New York, NY
+
+Things happened recently and I don't even have a time to update my page.
+I have moved to NY office since Sep. and used lots of time to settle down.
+
+I brought Mac Book Pro with 8GB Mem 256G SSD today.
+I hope join mac community can help my self development work.
+
+Here is the first plan, I have been think about it for a long time.
+Naming it chaos.trade.
+Mainly a website copy http://zhizuzhefu.com/.
+
+1. WebPy for website
+2. Postgres for database
+3. Python for data
+4. JS for page
