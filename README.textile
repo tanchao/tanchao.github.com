@@ -1,1 +1,3 @@
 *T. C. Hawk Github Pages*
+
+"shortcut":http://tanchao.github.io/
