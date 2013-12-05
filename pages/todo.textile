@@ -7,13 +7,12 @@ h3. TODOs
 
 * chaos.trade
 2013-12-03
-
-------------US-------------
+* dairy
 * San Jose
 * Skydriving
 * NBA
 * Street Ball Park
----------------------------
+
 
 
 h3. DONEs
