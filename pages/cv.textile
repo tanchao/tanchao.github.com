@@ -4,7 +4,6 @@ title: CV of Tan Chao
 ---
 h1=. Tan Chao
 
-phone: +1 (646) 207 4880
 email: chaos.tc@gmail.com
 
 h3. Profile
