@@ -6,30 +6,21 @@ h1. Tan Chao
 
 @ New York City, NY USA
 
-i am grateful and thankful with my life
-like says, "today is a gift from god, that's why it is called present"
-
-i agree, "call me developer, not engineer", although titled software engineer
-i feel lucky about my major, close to new techs and inventions
-
-Musk performs magic, Google plays big, Apple offers quality, Renaissance calculates math, Amazon makes market, LinkedIn shares career...
-
-also
-pround of wechat, alibaba, baidu, douban
+i am grateful and thankful to faith and life, as says, "today is a gift from god, that's why it is called present"
+i agree, "call me developer, not engineer", although titled engineer
+i feel lucky about my major and career, different cities and different cultrues, with different ideas and experiences.
 
 h3. Pros
 
-compared myself with talents
-focusd on result
-chased processing optimization
-kept simple and elegant code
+always watching talents
+result-faced
+kept chasing simpler and better
+fanny and sunny
 
 h3. Cons
 
-try to compare myself with talents      - keep foolish?
-try to focus on result                  - better or so so?
-try to chase processing optimization    - stop until really need?
-try to keep simple and elegant code     - whats less? whats more?
+not so detailed
+emotional, even in work sometimes
 
 h3. sites recommand
 
@@ -37,7 +28,7 @@ h3. sites recommand
 "stackoverflow":http://stackoverflow.com
 "coursera":https://www.coursera.org
 
-h3. find me
+h3. more about me
 
 watch me        @ "github":http://github.com/tanchao
 connect me      @ "LinkedIn":http://www.linkedin.com/profile/view?id=117523003

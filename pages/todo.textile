@@ -5,4 +5,4 @@ title: whats next...
 
 h3. TODOs
 
-* nothing - sad
+* move to my private website
