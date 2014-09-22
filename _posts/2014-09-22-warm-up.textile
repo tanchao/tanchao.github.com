@@ -1,0 +1,17 @@
+---
+layout: post
+title: Warm Up
+---
+
+h3. {{ page.title }}
+
+p(meta). 22 Sep 2014 - Guangzhou, China
+
+I was fooled by chinajunrui, they were responsible for the Alibaba hiring on Shenzhen, called me on lunch time and I worked out a Chinese version resume for them, and went to SZ from GZ that afternoon, and met the Hiring Manager, and was kicked out in 5 mins. The problem was in this case I was pretty sure that the Alibaba didn't see my resume or match, so they should not ask me to be there. No matter what and how, as I have my faith, I will never trust this company and I will never join Alibaba cop.
+
+The hiring manager gave me some advice, or another word of "sorry", you should seek for a position that conclude all your strong point, something like infrastaction engineer, admin. Make sense, after my anger and think, my strong points are English, MNC working experience, engineering background, tools development. So, don't think of a internet dev role anymore.
+
+I met a classmate at SZ, talked about current status and career development. I felt he did great job and was going to be better and better. He suggested, we need find a good company and develop in it. I feel our department is great, good management team, good opportunities. I need to find my way was well.
+
+Working hard for our team, working harder for my personal project. I am willing to help someone-myself, I am willing to use my skills to do it. Don't call it a innovation or other nice words, just practice, real practices.
+
