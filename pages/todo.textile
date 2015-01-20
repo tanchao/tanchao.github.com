@@ -5,4 +5,8 @@ title: whats next...
 
 h3. TODOs
 
-* move to my private website
+* build an iOS app
+
+h3. DONEs
+
+
