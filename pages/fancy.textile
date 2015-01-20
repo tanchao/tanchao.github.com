@@ -3,4 +3,12 @@ layout: page
 title: fancy
 ---
 
-*Dash* is an awesome app for document management tool for programmer
+"Dash":https://itunes.apple.com/us/app/dash-docs-snippets/id458034879?mt=12 document management
+
+"leetcode":http://leetcode.com algos practice
+
+"stackoverflow":http://stackoverflow.com search engine for bugs
+
+"coursera":https://www.coursera.org university on internet
+
+"Slack":https://slack.com/ instead of email
