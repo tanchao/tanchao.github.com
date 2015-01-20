@@ -4,32 +4,25 @@ title: about Tan Chao
 ---
 h1. Tan Chao
 
-@ New York City, NY USA
+@ Guangzhou, China
 
 i am grateful and thankful to faith and life, as says, "today is a gift from god, that's why it is called present"
-i agree, "call me developer, not engineer", although titled engineer
-i feel lucky about my major and career, different cities and different cultrues, with different ideas and experiences.
+i believe in "simple is beauty" and "stay hungry stay foolish"
 
-h3. Pros
+h3. pros
 
 always watching talents
 result-faced
 kept chasing simpler and better
 fanny and sunny
 
-h3. Cons
+h3. cons
 
 not so detailed
 emotional, even in work sometimes
 
-h3. sites recommand
+h3. contact
 
-"leetcode":http://leetcode.com
-"stackoverflow":http://stackoverflow.com
-"coursera":https://www.coursera.org
-
-h3. more about me
-
-watch me        @ "github":http://github.com/tanchao
-connect me      @ "LinkedIn":http://www.linkedin.com/profile/view?id=117523003
-mail me         @ "chaos.tc@gmail.com":mailto:chaos.tc@gmail.com
+watch me    @ "github":http://github.com/tanchao
+link me     @ "LinkedIn":http://cn.linkedin.com/in/tanchao
+mail me     @ "tan.chao.hawk@foxmail.com":mailto:tan.chao.hawk@foxmail.com
