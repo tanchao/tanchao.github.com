@@ -1,0 +1,31 @@
+---
+layout: post
+title: Goagent配置和Bug检查
+---
+
+h3. {{ page.title }}
+
+p(meta). 12 Mar. 2015 - Chenzhou, China
+
+这不是我第一次需要重新设置Goagent，我发现最简单的方式永远是重新设置一个新的gae。但是，这一次我准备记录一下，或者下次就无需从头再来。总结下来，我觉得这次的问题在于goagent的proxy.ini文件更新了，而我没有与时俱进，于是被抛弃了。
+
+环境：
+MacBook
+goagent virtualenvironment （python虚拟环境配置）
+git （goagent目前的维护地址）
+
+# https://goagent.github.io/ github地址，这个应该是值得信赖的。初次安装请参照该说明。（simple guide：https://github.com/goagent/goagent/blob/wiki/SimpleGuide.md）
+# https://github.com/goagent/goagent 我是直接clone的这个地址到本地，然后进行的配置。
+# workon goagent 如果不在该环境下运行，我启动proxy.py的时候会有莫名其妙的错误，但是我已经忘记几个月前我给这个环境安装了什么，需要去查询下virtualenv的文档吧。
+# MacBook有时候运行goagent-gtk.py没有什么反应，据说这个时候应该在Finder里面双击goagent-osx.command
+# 注意：如果开启了两步验证，密码应为16位的应用程序专用密码而非谷歌帐户密码，否则会出现 AttributeError: can't set attribute 错误
+# 之前我无法上网的原因是所有的google地址返回failed信息，我估计是goagent没有运行（没有在虚拟环境下成功运行）或者是proxy.ini配置错误，因为比较我的配置和该git相差太大，就决定直接拿这个用了
+# GoAgentX配置更加傻瓜，初体验可以试试那个
+# 我买了云梯VPN但是更喜欢goagent的原因是SwitchyShape
+
+该部分供自己参考：（启动顺序）
+cd /Users/tanchao/workspace/goagent/local
+workon goagent
+nohup python proxy.py &
+
+goagent有很多奇怪的状况，需要讨论联系378209132 at qq.com (我有gmail也有foxmail，只是其实国内qq很方便)
