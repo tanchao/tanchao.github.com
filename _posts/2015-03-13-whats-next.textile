@@ -15,7 +15,7 @@ goagent virtualenvironment （python虚拟环境配置）
 git （goagent目前的维护地址）
 
 # https://goagent.github.io/ github地址，这个应该是值得信赖的。初次安装请参照该说明。（simple guide：https://github.com/goagent/goagent/blob/wiki/SimpleGuide.md）
-# https://github.com/goagent/goagent 我是直接clone的这个地址到本地/Users/tanchao/workspace/goagent，然后进行的配置。
+# https://github.com/goagent/goagent 我是直接clone的这个地址到本地，然后进行的配置。
 # workon goagent 如果不在该环境下运行，我启动proxy.py的时候会有莫名其妙的错误，但是我已经忘记几个月前我给这个环境安装了什么，需要去查询下virtualenv的文档吧。
 # MacBook有时候运行goagent-gtk.py没有什么反应，据说这个时候应该在Finder里面双击goagent-osx.command
 # 注意：如果开启了两步验证，密码应为16位的应用程序专用密码而非谷歌帐户密码，否则会出现 AttributeError: can't set attribute 错误

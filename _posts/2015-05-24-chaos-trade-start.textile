@@ -1,0 +1,16 @@
+---
+layout: post
+title: chaos.trade go live
+---
+
+h3. {{ page.title }}
+
+p(meta). 24 May. 2015 - Guangzhou, China
+
+Recently I have been devoted into stock markets, due to I earnt 30% and lost to 10%ï, the interesting part is there is lots of ways to make decisions, no matter i anlysized it, or heard about it, or even lucky draw randomly picked one, there was not a totally my decision, because i didn't have a clear logical for all the trading events. I earnt as I was lucky I lost as I was unlucky, god's fair, faith's fair.
+
+Now chaos.trade is totally my idea, from the idea 'less is more', key point is select the right stock, buy it after 2pm, sell half once it raise 3%, sell another half once it raise 5%, sell all once it backward 2%; of cause if it fails 2% at the beginning, same role. this is super frequent trading stratege, but will see how it works next week, and how it works in decending market.
+
+Now I get the idea why people not anxious about their long-term stocks, because they know current wave won't affect their final revenue. Me too, no matter this startege works or not, I will gain experience, and I will enhance it as I want. It is just a start now, we have a life jouney to go, to financial freedom.
+
+Stay foolish, stay hungry.
