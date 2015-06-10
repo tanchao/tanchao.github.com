@@ -1,0 +1,12 @@
+---
+layout: post
+title: (AD) meetqun
+---
+
+h3. {{ page.title }}
+
+p(meta). 10 Jun. 2015 - Guangzhou, China
+
+"meetqun":http://meetqun.com/thread-7884-1-1.html?x=40331
+
+Yup, this is an AD, there are lots of valuable information in this BBS, and there are lots of high valuable info need points, so I share this link. Pls register one with this link in case you think my posts have some help.
