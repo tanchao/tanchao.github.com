@@ -1,19 +1,19 @@
 ---
 layout: page
-title: resume of Tan Chao
+title: resume of tanchao
 ---
-h1=. Tan Chao
+h1=. TAN CHAO
 
 email: tan.chao.hawk@foxmail.com
 
 h3. Profile
 
-Java/J2EE (4yr) & Python(2yr) developer; database programming and optimization in Informix, Oracle & Sybase (PLSQL); web development with SSH(Struts, Spring, Hibernate)ruby, node.js, webpy; HTML5 & CSS3(Bootstrap) & JavaScript(jQuery); automation tools & platform design and enhancement for process workflow and program
+Python & Java developer with 8yrs financial/eCommerce industry experience; SQL and DB optimization in Oracle (PLSQL) & Sybase; web development with web.py, SSH(Struts, Spring, Hibernate), node.js; experienced HTML/CSS/JavaScript; designed and built automation tools; fun of KISS/DRY/TDD, OSSer.
 
 h3. Experience
 
 *HSBC* - Senior Software Engineer - 2012.07 until now
-FXO Murex developer, created Murex reports for business requirement, generated excel reports to clients on daily basis; Murex environment management, optimized SQLs to remove one hour manual work on daily frequency; Designed and developed python based web.py automation platform, reduced environment refresh from two days to one hour without manpower.
+Designed and founded environment management platform (MESA) from scratch in Python, made new environment initialization from 2days to 2hour; enhanced and reconstructed regression testing automation framework on Jemmy (Java) with RESTful APIs, NFOS testing cicle reduced from 1 week to 6hours, from SDLC to daily regression; managed Murex environments, optimized SQLs to save 1hou¬r manual work on daily basis; adapted excel tools by VBA programming for rate import.
 
 *HSBC (US)* - Senior Software Engineer - 2013.08-2014.08
 Foreign eXchange Options(FXO) trade floor support, fully supported traders directly, highly recognized by US traders/sales/middle office; Valuation(VS) reconciliation automation, enhanced VS release procedure that reduced from one day to one hour, machine validation instead of one manpower; Murex production environment management, developed M/O tools made middle office direct calls reduce to 20% compared with previous.
